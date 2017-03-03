@@ -68,7 +68,7 @@ body{ background-color: #000000;
 	text-indent: 250px;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-mask-image: url("../image/load.png");
+	-webkit-mask-image: url("https://cdn.rawgit.com/ilhamalakbar12/HTML2/5bb7a398/load.png");
 	background-color: #fff;
 	-webkit-animation-name: spinnerRotate;
 	-webkit-animation-duration: 1s;
